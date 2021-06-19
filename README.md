@@ -1,12 +1,17 @@
 # Bluetooth-DMM
-Analyze Bluetooth Multimeter, 
-Aneng 9002, Bside ZT-300AB, ZOYI ZT-300AB, 
-Aneng V05B, BSIDE ZT-5B, ZT-5B, 
-Aneng ST207, BSIDE ZT-5BQ, 
-ZT-5566B, ZT-XB,
+Analyze Bluetooth Multimeter,<br>
+Aneng 9002,   BSIDE ZT-300AB, ZOYI ZT-300AB,<br>
+Aneng V05B,   BSIDE ZT-5B, ZT-5B,<br>
+Aneng ST207,  BSIDE ZT-5BQ, ZT-5566B, ZT-XB,<br>
 
 Sample facts to analyse the bluetooth protocol for Zotec multimeter family
 
 WIKI: https://github.com/ludwich66/Bluetooth-DMM/wiki
 
-Help needed ;-)
+Protocol: https://github.com/ludwich66/Bluetooth-DMM/wiki/Bluetooth-DMM-11-Byte-Data-Protocol
+
+First Perl Decoder made from user “anszom”
+THX 2 Andrzej for the Encoding Sample in <br>
+PERL: https://gist.github.com/anszom/732b5b7dda9ccb624980153dff1d7c1f
+
+
