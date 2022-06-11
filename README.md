@@ -10,8 +10,6 @@ WIKI: https://github.com/ludwich66/Bluetooth-DMM/wiki
 
 Protocol: https://github.com/ludwich66/Bluetooth-DMM/wiki/Bluetooth-DMM-11-Byte-Data-Protocol
 
-First Perl Decoder made from user “anszom”
-THX 2 Andrzej for the Encoding Sample in <br>
-PERL: https://gist.github.com/anszom/732b5b7dda9ccb624980153dff1d7c1f
+
 
 
