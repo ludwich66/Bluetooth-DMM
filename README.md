@@ -6,10 +6,15 @@ Aneng ST207,  BSIDE ZT-5BQ, ZT-5566B, ZT-XB<br>
 
 Sample facts to analyse the bluetooth protocol for Zotec multimeter family
 
-WIKI: https://github.com/ludwich66/Bluetooth-DMM/wiki
-
-Protocol: https://github.com/ludwich66/Bluetooth-DMM/wiki/Bluetooth-DMM-11-Byte-Data-Protocol
-
-
-
+WIKI: https://github.com/ludwich66/Bluetooth-DMM/wi
+*Home
+Bluetooth Analyses
+Bluetooth DMM 10 Byte Data Protocol
+Bluetooth DMM 11 Byte Data Protocol
+BT Module F9788Scematic
+File Export
+Partlist Multimeter
+Technical Data Multimeter (1)
+Technical Data Small Multimeter (2)
+Technical Data Clamp Multimeter (3)
 
