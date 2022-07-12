@@ -21,4 +21,9 @@ Sample facts to analyse the bluetooth protocol for Zotec multimeter family<br>
 - Technical Data Small Multimeter<br>
 - Technical Data Clamp Multimeter<br>
 - Technical Data Desk Multimeter<br>
-- Links to Softwareimplementations from Usernams (Karl, Shiro-Nek0, Webspiderteam, 840922704)
+- Links to Softwareimplementations from Usernames 
+  * Karl / ludwich66
+  * Shiro-Nek0
+  * Webspiderteam 
+  * 840922704
+
