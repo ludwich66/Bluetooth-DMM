@@ -23,7 +23,7 @@ Sample facts to analyse the bluetooth protocol for Zotec multimeter family<br>
 - Technical Data Desk Multimeter<br>
 - Links to Softwareimplementations from Usernames 
   * Karl / ludwich66
-  * Shiro-Nek0
+  * Shiro-Nek0, https://github.com/Shiro-Nek0/Bluetooth-DMM.py
   * Webspiderteam, https://github.com/webspiderteam/Bluetooth-DMM-For-Windows/releases
   * 840922704, https://github.com/840922704/BLE_DMM_Client/releases
 
