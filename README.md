@@ -3,7 +3,7 @@ Analyze Bluetooth Multimeter Family,<br>
 Aneng 9002,   BSIDE ZT-300AB, ZOYI ZT-300AB, BABATools AD900<br>
 Aneng V05B,   BSIDE ZT-5B, ZT-5B<br>
 Aneng ST207,  BSIDE ZT-5BQ, ZT-5566B, ZT-XB<br>
-Aneng AN999S, ZOYI ZT-5566S<br>
+Aneng AN999S, ZOYI ZT-5566S, ZOYI ZT-5566SE<br>
 
 
 Sample facts to analyse the bluetooth protocol for Zotec multimeter family<br>
