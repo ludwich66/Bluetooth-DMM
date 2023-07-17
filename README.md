@@ -28,3 +28,6 @@ Sample facts to analyse the bluetooth protocol for Zotec multimeter family<br>
   * 840922704, https://github.com/840922704/BLE_DMM_Client/releases
   * riktw, https://github.com/riktw/AN9002_info
   * blackPantherOS https://github.com/blackPantherOS/AN9002 (Wiki-Cloner!)
+  * [Abhas Bhattacharya, Github-Page Multimeter-Connect-Web](https://github.com/bendtherules/multimeter-connect-web)<br>
+    [Multimeter-Speaker LivePage](https://multimeter-speaker.netlify.app)<br>
+    <img width="150" alt="image" src="https://github.com/ludwich66/Bluetooth-DMM/assets/12202733/503542c4-7def-4c2e-84b5-75082d837248">
