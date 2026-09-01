@@ -31,3 +31,4 @@ Sample facts to analyse the bluetooth protocol for Zotec multimeter family<br>
   * [Abhas Bhattacharya, Github-Page Multimeter-Connect-Web](https://github.com/bendtherules/multimeter-connect-web)<br>
     [Multimeter-Speaker LivePage](https://multimeter-speaker.netlify.app)<br>
     <img width="150" alt="image" src="https://github.com/ludwich66/Bluetooth-DMM/assets/12202733/503542c4-7def-4c2e-84b5-75082d837248">
+  * ble-multimeter/multimeter Mannes https://github.com/ble-multimeter/multimeter/tree/main/packages/protocol  
